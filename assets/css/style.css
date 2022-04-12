@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+fieldset {
+    display: inline-block;
+    margin: 45vh auto auto 40vw;
+}
+
+table {
+    padding: 10px;
+}
+
+form fieldset table tr:last-child td input:first-child {
+    margin-right: 5px;
+}
